@@ -1,5 +1,11 @@
 # lucazani.com Source Code
 
+## ⚠️ SITE DECOMMISSIONING NOTICE ⚠️
+
+**This website is discontinued.** Starting **June 24, 2025**, the new site can be found at [lucazani.com](https://lucazani.com) or visit the new repository at [https://github.com/OverloadedTech/website](https://github.com/OverloadedTech/website).
+
+---
+
 # Info
 The website will soon be remade and will get reuploaded as a 2.0 version. It might take a while, howewer keep in mind that this stuff is NOT stable
 
